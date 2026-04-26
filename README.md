@@ -5,6 +5,8 @@
 
 <img width="139" height="35" alt="image" src="https://github.com/user-attachments/assets/12a44f5d-21b7-415a-882e-f81b1bc31b21" />
 <img width="243" height="78" alt="image" src="https://github.com/user-attachments/assets/f313552a-8055-49f1-aa52-44dd51728b4f" />
+<img width="1600" height="900" alt="Коэфф преломления и пористость" src="https://github.com/user-attachments/assets/f431b3d4-5fe6-4607-a898-5c6565e5838d" />
+<img width="1200" height="662" alt="Сетка ячеек" src="https://github.com/user-attachments/assets/99f0823d-fff5-4408-81a1-96f46a897b76" />
 <img width="1304" height="675" alt="image" src="https://github.com/user-attachments/assets/ec4d180a-e6a7-4b09-b455-86c8dca17a11" />
 <img width="1304" height="675" alt="image" src="https://github.com/user-attachments/assets/6893af9e-fbc5-4b60-b3de-1ea34fa8bd47" />
 <img width="1304" height="675" alt="image" src="https://github.com/user-attachments/assets/cd3a42d5-a2ac-419e-af21-c5caf1ae9f6a" />
